@@ -1,3 +1,4 @@
 Materi Komputasi :
 - Algoritma Pemrograman
 - Metode Numerik contohnya jacobi dan gausseidel
+yapppp
