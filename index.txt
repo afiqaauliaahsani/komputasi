@@ -1,0 +1,3 @@
+Materi Komputasi :
+- Algoritma Pemrograman
+- Metode Numerik
